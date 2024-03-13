@@ -1,5 +1,6 @@
 ---
 title: Your first seed
+published: false
 ---
 
 ### Welcome!
@@ -45,10 +46,10 @@ https://twitter.com/jack/status/20
 You may embed media files within a note using HTML5 media tags. Here's an example for an audio file:
 
 "Jazzy Frenchy" by Benjamin Tissot from bensound.com
-<audio controls>
-  <source src="{{ site.baseurl }}/assets/jazzyfrenchy.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+<!-- <audio controls> -->
+<!--   <source src="{{ site.baseurl }}/assets/jazzyfrenchy.mp3" type="audio/mpeg"> -->
+<!--   Your browser does not support the audio element. -->
+<!-- </audio> -->
 
 ### Site configuration
 
@@ -90,7 +91,7 @@ If you'd like to quote other people, consider using quote blocks:
 
 And of course, images look great:
 
-<img src="{{ site.baseurl }}/assets/image.jpg"/>
+<!-- <img src="{{ site.baseurl }}/assets/image.jpg"/> -->
 
 You can also ==highlight some content== by wrapping it with `==`.
 

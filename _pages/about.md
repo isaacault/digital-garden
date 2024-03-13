@@ -4,6 +4,5 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
-
-Feel free to tell the world about what you love! 😍
+Hi, I’m Isaac. I like writing software, listening to music, and walking up 
+hills.
