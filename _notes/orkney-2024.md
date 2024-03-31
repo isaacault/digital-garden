@@ -1,12 +1,7 @@
 ---
 title: One Week in Orkney
 id: orkey-2024
-tags:
-  - orkney
-  - highlands
-  - islands
-  - holiday
-layout: page
+tags: [orkney, highlands, islands, holiday]
 ---
 
 I just got back from a week in Orkney, an archipelago[^1] off the north coast of
@@ -67,5 +62,4 @@ my personal highlights
   copper poisoning because of it. Wild.
 
 Alright. This one didn't roll out as easily, but I'm trying to be consistent 
-with writing. Time for dinner. 
-
+with writing. Time for dinner.
