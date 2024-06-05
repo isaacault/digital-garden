@@ -58,4 +58,11 @@ you'd like to maximize your walking time here is the option:
 - 18:33 - 21:20: Train from Taynuilt to Glasgow Queen Street.
 - 21:30 - 22:19: Train from Glasgow Queen Street to Edinburgh Waverly.
 
-Perhaps the biggest hiccup here is that there is no reliable food in Taynuilt
+Perhaps the biggest hiccup here is that there is only one option for food in 
+Taynuilt and that's Graham's Grocers. It's well rated on Google Maps and says 
+it should be open until 22:00 on a Sunday, but sometimes small town businesses 
+don't necessarily abide by the Google Maps.
+
+Note: If you arrive in Taynuilt early and hungry, you could always get the first
+train/bus to Oban and get food/drink there until the train leaves from Oban to 
+Glasgow.
