@@ -42,7 +42,8 @@ Sleep in Aberdeen.
 ### Saturday
 
 **07:05 - 07:16:** Walk to Union Square<br>
-**07:16 - 09:27:** Bus to Braemar. This involves a bus change at Golf Road.<br>
+**07:16 - 09:27:** Bus to Braemar. The maps say that this involves a bus change 
+at Golf Road, however you are meant to just stay on the same bus.<br>
 **09:27:** Begin day 1 of the walk. Camp anywhere along the way.<br>
 
 [Link to Google Maps route](https://maps.app.goo.gl/XS7xDfsDbp5hqQ3B6)
@@ -74,3 +75,28 @@ Similarly, there are plenty of earlier trains from Aviemore back down, so
 getting home earlier is always an option. I chose the late train so I can have 
 time to enjoy the walk and maybe add some spontaneous munros, or maybe get some
 Sunday dinner at the [Old Bridge Inn](https://www.oldbridgeinn.co.uk/).
+
+## Update: Afterwards
+
+This all went very smoothly! Our bus leaving Union Square in Aberdeen was about 
+30min late, but since it's the same bus all the way to Braemar this had little 
+impact on the remainder of the journey. 
+
+In Braemar, there was a Co-op which we used for trail snacks, but sadly we 
+caught them on the last day before permanent closure. There is also a blue
+Scottish Water Top Up Tap in the village center, so no need to worry about 
+filling up with the Premier Inn water (also this water tasted much better).
+
+The weekend we went was the first warm and sunny weekend of the year, so the
+trails and the Corrour Bothy were busy. Extra busy at the bothy. We planned to 
+wild camp anyways, but fair warning this route doesn't involve many obvious camp 
+spots between Luibeg Burn - I guess that's all part of the fun though. Along the
+River Dee there were a few bends that had small beaches for one or two tents, 
+which gave us a great place and a great sleep, but aside from those there were
+few appealing options.
+
+As expected, the Old Bridge Inn food was very welcomed.
+
+I definitely recommend this route! Thoroughly enjoyed.
+
+
