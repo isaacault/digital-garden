@@ -8,11 +8,9 @@ tags: cooking rice
 [Jump to Recipe](#recipe)
 
 In all seriousness, I cook perfect steamed rice on the stove every time. The 
-haters doubt me but then they're quiet after they've tried it. After a rise in 
-recent demand for my rice process, I've decided to post it here for all my one 
-reader.
-
-# Perfect Rice
+haters doubt me but they're suprisingly quiet after they've tried it. After a 
+recent growth in demand for my rice process, I've decided to post it here for 
+all my one reader.
 
 ## The Ratio
 
@@ -21,12 +19,11 @@ For 1 part rice, add anywhere between 1.25 and 1.5 parts water depending on how
 flaky you like your rice (1.25 is flakier but don't go lower than this or it 
 won't cook through).
 
-
 ## Materials
 
 * Stove
   * I've used this process extensively on induction and electric hobs. It will 
-  not work on gas hobs without modifications.
+  not work on gas hobs without modifications (see below).
 * Stovepot and a lid, ideally glass
   * Glass lid is beneficial so you can watch the water come to a boil and know 
   when to turn the heat down. If you don't have a glass lid, I'd suggest a bit 
@@ -58,10 +55,12 @@ the water runs clear).
 
 Make sure you've drained as much water as possible, although a sieve won't be 
 necessary just do your best with tilting the pot. Hopefully the kettle has just 
-finished boiling and now you can add the hot water to the rice. 
+finished boiling and now you can add the hot water to the rice - don't forget to 
+measure how much you add.
 
 Go for between 1.25x and 1.5x the amount of water as there is rice. This can be 
-done in grams/ml of water and rice interchangably. 
+done in grams/ml of water and rice interchangably, although I usually see better
+results when measured by weight.
 
 Note: 1ml of water is 1g.
 
@@ -81,14 +80,14 @@ I'll describe the 3 stages of the water boiling and then explain why:
 Equivalent to a rolling boil.
 
 What you want to do is catch it exactly at #2 and turn the heat immediately to 
-the lowest setting your hob has. Set a timer for 15 minutes and leave it to 
-rest.
+the lowest setting your hob has. Set a timer for 15 minutes and leave the pot
+covered during this time.
 
 After 15 minutes, you can check that it's cooked through now by tilting the pot,
 you shouldn't see any water pool at the edge as it should all be absorbed by the
 rice. At this point, take it off the element and leave it to rest covered for a 
-few minutes. This step can be skipped if you're in a rush, but the rice will 
-dry out quicker.
+few more minutes. This step can be skipped if you're in a rush, but the rice 
+will dry out quicker.
 
 After a few minutes resting, fluff the rice with a fork and serve. You should 
 have perfect steamed rice.
