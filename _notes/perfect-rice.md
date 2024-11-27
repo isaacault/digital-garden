@@ -105,3 +105,31 @@ This takes about 20 minutes from start to finish. The process is as follows
 6. Fluff with a fork and serve.
 
 
+## Further Notes
+
+### Gas Hobs
+
+I struggle here honestly. If you know a good process for this then please 
+let me know. 
+
+The issue here is because a gas burner's lowest setting is usually still too hot
+and the rice will burn. I have multiple ideas for this but not enough practice
+to suggest any one. Things to try include:
+
+* Ommitting the inital high heat until boil and just beginning 15min timer.
+* Turning the element off before the complete 15min, but still allowing to rest 
+for this time.
+* Use a tea towel under the lid and turn off the element completely.
+  * This is something I read in a recipe once. I think the idea is that the tea 
+  towel will block the steam from escaping through the vent hole in the lid, and 
+  thus once it's reached a boil you can turn off the burner and the pot should 
+  have enough latent heat to complete the rice. I imagine this will be heavily 
+  varied by size and thickness of your pot as well as quantity of rice.
+
+### Mass vs Volume
+
+to do
+
+### Keeping Rice / Sushi Rice
+
+to do 
